@@ -1,10 +1,12 @@
-Currently Learning:
+Technical assistant at CodeClan.
 
+
+Currently Learning:
 - Java
 - Cyber Security
 
-Tech Stack:
 
+Tech Stack:
 - Front End -- JavaScript | HTML | CSS
 - Back End -- JavaScript | Python | Express 
 - Frameworks/Libraries -- React | Django 

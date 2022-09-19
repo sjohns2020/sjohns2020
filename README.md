@@ -1,7 +1,7 @@
 Technical assistant at CodeClan.
 
 
-Currently Learning:
+Skills I am currently learning and developing:
 - Java
 - Cyber Security
 

@@ -1,19 +1,19 @@
-Technical assistant at CodeClan.
+Software Development Instructor at CodeClan.
 
 
 Skills I am currently learning and developing:
-- Java
-- Cyber Security
+- Next.js
+- SEO
 
 
 Tech Stack:
 - Front End -- JavaScript | HTML | CSS
-- Back End -- JavaScript | Python | Express 
-- Frameworks/Libraries -- React | Django 
-- Databases -- PostgreSQL | SQLite | MongoDB 
+- Back End -- JavaScript | Python | Java | Express 
+- Frameworks/Libraries -- Flask | Django | React | NextJS | Spring
+- Databases -- PostgreSQL | SQLite | MongoDB | H2
 - Version control -- Git | GitHub
-- Deployment -- Heroku | Firebase | AWS
-- Design Tools -- Miro | Draw.io | Canva | Ziteboard
+- Deployment -- Heroku | Firebase | AWS | Fly 
+- Design Tools -- Figma | Canva | Ziteboard
 
 
 <!---

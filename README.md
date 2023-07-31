@@ -8,13 +8,13 @@ Skills I am currently learning and developing:
 
 Tech Stack:
 
-- Front End             -- JavaScript | HTML | CSS
-- Back End              -- JavaScript | Python | Java | Express 
-- Frameworks/Libraries  -- Flask | Django | React | NextJS | Spring
-- Databases             -- PostgreSQL | SQLite | MongoDB | H2
-- Version control       -- Git | GitHub
-- Deployment            -- Heroku | Firebase | AWS | Fly 
-- Design Tools          -- Figma | Canva | Ziteboard
+- Front End -------------- JavaScript | HTML | CSS
+- Back End --------------- JavaScript | Python | Java | Express 
+- Frameworks/Libraries --- Flask | Django | React | NextJS | Spring
+- Databases -------------- PostgreSQL | SQLite | MongoDB | H2
+- Version control -------- Git | GitHub
+- Deployment ------------- Heroku | Firebase | AWS | Fly 
+- Design Tools ----------- Figma | Canva | Ziteboard
 
 
 <!---

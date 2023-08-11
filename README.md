@@ -1,20 +1,16 @@
 Software Development Instructor at CodeClan.
 
-
-Skills I am currently learning and developing:
-- Next.js
-- SEO
+Hi, I'm Sean.  I am a creative, friendly and fast-learning software developer who is always ready to turn up in a positive and constructive way.  I believe strongly in the power of coaching and mentoring and peing a positive part of the Scottish Tech community. 
 
 
-Tech Stack:
-
-- Front End -------------- JavaScript | HTML | CSS
-- Back End --------------- JavaScript | Python | Java | Express 
-- Frameworks/Libraries --- Flask | Django | React | NextJS | Spring
-- Databases -------------- PostgreSQL | SQLite | MongoDB | H2
-- Version control -------- Git | GitHub
-- Deployment ------------- Heroku | Firebase | AWS | Fly 
-- Design Tools ----------- Figma | Canva | Ziteboard
+TECH STACK
+Front End	  JavaScript | HTML | CSS	
+Back End	  Node.js | Python | Java | Express
+Frameworks 	React | Next.JS | Flask  	
+Databases 	PostgreSQL | SQLite | MongoDB | H2
+            Django | Spring 		
+Deployment	Heroku | Firebase | AWS | Fly
+TDD  		    Cyprus | Unittest | Mocha 	Design Tools	Figma | Excalidraw | Canva | Miro | Junit
 
 
 <!---

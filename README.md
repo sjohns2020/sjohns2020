@@ -4,13 +4,20 @@ Hi, I'm Sean.  I am a creative, friendly and fast-learning software developer wh
 
 
 TECH STACK
-- **Front End**	            JavaScript | HTML | CSS	
-- **Back End**	            Node.js | Python | Java | Express
-- **Frameworks** 	React | Next.JS | Flask | Django | Spring
-- **Databases** 	PostgreSQL | SQLite | MongoDB | H2 | Django | MySql 		
-- **Deployment**	Heroku | Firebase | AWS | Fly
-- **TDD**                   Cyprus | Unittest | Mocha
-- **Design Tools**	Figma | Excalidraw | Canva | Miro | Junit
+- **Front End**
+  - JavaScript | HTML | CSS	
+- **Back End**
+  - Node.js | Python | Java | Express
+- **Frameworks**
+  - React | Next.JS | Flask | Django | Spring
+- **Databases**
+  - PostgreSQL | SQLite | MongoDB | H2 | MySql 		
+- **Deployment&Cloud**
+  - Heroku | Firebase | AWS | Fly
+- **TDD**
+  - Cyprus | Unittest | Mocha | react-testing-library | Junit 4 + 5
+- **Design Tools**
+  - Figma | Excalidraw | Canva | Miro 
 
 
 <!---

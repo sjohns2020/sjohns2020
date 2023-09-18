@@ -1,4 +1,4 @@
-Software Development Instructor at CodeClan.
+Software Development Instructor.
 
 Hi, I'm Sean.  I am a creative, friendly and fast-learning software developer who is always ready to turn up in a positive and constructive way.  I believe strongly in the power of coaching and mentoring and being a positive part of the innovative Scottish Tech community. 
 

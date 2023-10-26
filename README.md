@@ -9,7 +9,7 @@ TECH STACK
 - **Back End**
   - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/Java-43853D?style=flat-square&logo=node.js&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Express
 - **Frameworks**
-  - ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB) | NextJS | Flask | Django | Spring
+  - ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB) | ![Next.js](https://img.shields.io/badge/Next.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB) | ![Flask](https://img.shields.io/badge/Flask-0081CB?style=flat-square&logo=react&logoColor=61DAFB) | ![Django](https://img.shields.io/badge/Django-0081CB?style=flat-square&logo=react&logoColor=61DAFB) | ![Spring](https://img.shields.io/badge/Spring-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 - **Databases**
   - PostgreSQL | SQLite | MongoDB | H2 | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) 		
 - **Deployment&Cloud**

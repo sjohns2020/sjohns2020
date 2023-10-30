@@ -15,7 +15,7 @@ TECH STACK
 - **Deployment&Cloud**
   - Heroku | Firebase | AWS | Fly
 - **TDD**
-  - Cyprus | Unittest | Mocha | react-testing-library | Junit 4 + 5
+  - Cypress | Unittest | Mocha | react-testing-library | Junit 4 + 5 | Pytest
 - **Design Tools**
   - Figma | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Canva | Miro 
 
